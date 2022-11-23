@@ -57,13 +57,13 @@ source ~/.bash_profile
 - chmod +x phpunit
 - sudo yum  install php-xdebug
 
-#### for database connection
+####env variable for database connection
 ====================================
 DB_CONNECTION=mysql
 DB_PORT=3306
 
-sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 sudo yum install mysql -y
+sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 
 Learn how to install Jenkins [here](https://www.jenkins.io/doc/book/installing/)
 
