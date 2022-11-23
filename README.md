@@ -24,7 +24,6 @@ export CLASSPATH=.:$JAVA_HOME/jre/lib:$JAVA_HOME/lib:$JAVA_HOME/lib/tools.jar
 ##### reload the bash profile
 source ~/.bash_profile
 
-
 ##### Install  php
 =====================================
 - yum module reset php -y
@@ -68,10 +67,10 @@ sudo yum install mysql -y
 
 Learn how to install Jenkins [here](https://www.jenkins.io/doc/book/installing/)
 
-Learn how to installk artifactory [here](https://jfrog.com/open-source/)
+Learn how to install artifactory [here](https://jfrog.com/open-source/)
 
 
-#### JEnkinsfile for Quick Task
+#### Jenkinsfile for Quick Task
 ==================================
 
 ```
