@@ -8,4 +8,4 @@
 172.31.14.220 ansible_ssh_user='ec2-user'
 
 [todo]
-172.31.28.22 ansible_ssh_user='ec2-user'
+172.31.86.118 ansible_ssh_user='ec2-user'
